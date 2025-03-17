@@ -12,4 +12,4 @@ Essa é uma solução do desafio [Bento grid challenge, na Frontend Mentor](http
 ![Bento Grid Preview](./design/desktop_result.png)
 Esse é um screenshot do projeto em uma tela de 1440px
 
-💻 **[Confira o projeto ao vivo](#)**
+💻 **[Confira o projeto ao vivo](https://frontendmentor-bentogrid.netlify.app/)**
